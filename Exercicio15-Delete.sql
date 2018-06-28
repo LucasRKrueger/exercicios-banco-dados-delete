@@ -1,0 +1,1 @@
+﻿DELETE FROM pokemons WHERE LEN(descricao) >150 
